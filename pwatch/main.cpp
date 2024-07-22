@@ -85,10 +85,9 @@ int bp_type = 4;
 disasm disasm_;
 int main(int argc, char** argv) {
     pid_ = atoi(argv[1]);
-    //bp_addr转成16进制
     bp_addr = strtoul(argv[2], NULL, 16);
     bp_type = atoi(argv[3]);
-    //打印参数
+    
     std::cout << "pid: " << pid_ << " bp_addr: " << bp_addr << " bp_type: " << bp_type << std::endl;
 
     pthread_t t;
