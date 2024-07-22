@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/28116/Desktop/RWMemTool/pwatch/cmake-build-debug",
+  "command": "D:\\ndkollvm\\android-ndk-r25c.Ollvm\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=D:/ndkollvm/android-ndk-r25c.Ollvm/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/Users/28116/Desktop/RWMemTool/pwatch/capstone -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIE -fcolor-diagnostics -std=gnu++2b -o CMakeFiles\\pwatch_c.dir\\main.cpp.o -c C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\main.cpp",
+  "file": "C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\main.cpp"
+},
+{
+  "directory": "C:/Users/28116/Desktop/RWMemTool/pwatch/cmake-build-debug",
+  "command": "D:\\ndkollvm\\android-ndk-r25c.Ollvm\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=D:/ndkollvm/android-ndk-r25c.Ollvm/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/Users/28116/Desktop/RWMemTool/pwatch/capstone -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIE -fcolor-diagnostics -std=gnu++2b -o CMakeFiles\\pwatch_c.dir\\PerfMap.cpp.o -c C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\PerfMap.cpp",
+  "file": "C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\PerfMap.cpp"
+},
+{
+  "directory": "C:/Users/28116/Desktop/RWMemTool/pwatch/cmake-build-debug",
+  "command": "D:\\ndkollvm\\android-ndk-r25c.Ollvm\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=D:/ndkollvm/android-ndk-r25c.Ollvm/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/Users/28116/Desktop/RWMemTool/pwatch/capstone -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIE -fcolor-diagnostics -std=gnu++2b -o CMakeFiles\\pwatch_c.dir\\disasm.cpp.o -c C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\disasm.cpp",
+  "file": "C:\\Users\\28116\\Desktop\\RWMemTool\\pwatch\\disasm.cpp"
+}
+]
